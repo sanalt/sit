@@ -9,7 +9,6 @@ import org.apache.cordova.CordovaPlugin;
 import org.json.JSONArray;
 import org.json.JSONException;
 
-import com.sanda.toast.WatermarkDetector;
 
 
 public class WatermarkDetector extends CordovaPlugin {
